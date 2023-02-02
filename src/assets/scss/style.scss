@@ -1,5 +1,13 @@
 // h1 style
 
+@font-face {
+    font-family: Pompadur; /* Имя шрифта */
+    src: url(../fonts/FontsFree-Net-SFProDisplay-Regular.ttf); /* Путь к файлу со шрифтом */
+   }
+
+body {
+    font-family: Pompadur;
+}
 h1 {
-    background: rgba(123, 47, 47, 0.369);
+    background: rgba(108, 65, 65, 0.369);
 }
